@@ -1,0 +1,49 @@
+{
+  "_main-C8uHiX23.js": {
+    "file": "assets/main-C8uHiX23.js",
+    "name": "main",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/index.tsx"
+    ],
+    "dynamicImports": [
+      "src/App.tsx"
+    ],
+    "css": [
+      "assets/main-Dtn62Xmo.css"
+    ]
+  },
+  "_main-Dtn62Xmo.css": {
+    "file": "assets/main-Dtn62Xmo.css",
+    "src": "_main-Dtn62Xmo.css"
+  },
+  "src/App.tsx": {
+    "file": "assets/App-DImRpTl-.js",
+    "name": "App",
+    "src": "src/App.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_main-C8uHiX23.js",
+      "src/index.tsx"
+    ],
+    "css": [
+      "assets/App-Cs9mLtrU.css"
+    ],
+    "assets": [
+      "assets/react-CHdo91hT.svg"
+    ]
+  },
+  "src/assets/react.svg": {
+    "file": "assets/react-CHdo91hT.svg",
+    "src": "src/assets/react.svg"
+  },
+  "src/index.tsx": {
+    "file": "assets/site.js-jE0dXLlc.js",
+    "name": "site.js",
+    "src": "src/index.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "_main-C8uHiX23.js"
+    ]
+  }
+}
