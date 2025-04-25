@@ -1,6 +1,10 @@
 {
-  "_main-C8uHiX23.js": {
-    "file": "assets/main-C8uHiX23.js",
+  "_main-BWzQ4JOH.css": {
+    "file": "assets/main-BWzQ4JOH.css",
+    "src": "_main-BWzQ4JOH.css"
+  },
+  "_main-CaYER7M6.js": {
+    "file": "assets/main-CaYER7M6.js",
     "name": "main",
     "isDynamicEntry": true,
     "imports": [
@@ -10,24 +14,20 @@
       "src/App.tsx"
     ],
     "css": [
-      "assets/main-Dtn62Xmo.css"
+      "assets/main-BWzQ4JOH.css"
     ]
   },
-  "_main-Dtn62Xmo.css": {
-    "file": "assets/main-Dtn62Xmo.css",
-    "src": "_main-Dtn62Xmo.css"
-  },
   "src/App.tsx": {
-    "file": "assets/App-DImRpTl-.js",
+    "file": "assets/App-EU8TtWcA.js",
     "name": "App",
     "src": "src/App.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_main-C8uHiX23.js",
+      "_main-CaYER7M6.js",
       "src/index.tsx"
     ],
     "css": [
-      "assets/App-Cs9mLtrU.css"
+      "assets/App-16gf6b8v.css"
     ],
     "assets": [
       "assets/react-CHdo91hT.svg"
@@ -38,12 +38,12 @@
     "src": "src/assets/react.svg"
   },
   "src/index.tsx": {
-    "file": "assets/site.js-jE0dXLlc.js",
+    "file": "assets/site.js-CrKm8JRH.js",
     "name": "site.js",
     "src": "src/index.tsx",
     "isEntry": true,
     "dynamicImports": [
-      "_main-C8uHiX23.js"
+      "_main-CaYER7M6.js"
     ]
   }
 }
